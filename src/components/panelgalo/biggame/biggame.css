@@ -1,0 +1,17 @@
+#bg {
+    position: relative;
+    display: grid;
+    grid-template-columns: 60px 60px 60px;
+    grid-template-rows: 60px 60px 60px;
+    gap: 150px;
+  }
+
+#in{
+    
+    display: flex;
+    flex-direction: row;
+}
+
+#tempo{
+    margin-left: 100%;
+}

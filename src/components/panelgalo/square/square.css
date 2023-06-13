@@ -1,0 +1,14 @@
+.celula{
+    background-color: rgb(92, 90, 90);
+    
+    width: 65px;
+    height: 65px;
+    
+}
+
+/*.celula:hover{
+    opacity: 0.4;
+}*/
+.simb{
+    font-size:55px;
+}
